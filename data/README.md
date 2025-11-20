@@ -22,3 +22,10 @@ MAE, MSE, RMSE
 MAPE
 
 Works with the Genpact Food Demand Forecasting dataset
+
+
+
+
+
+Dataset not included due to licensing.  
+Download from: https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting
